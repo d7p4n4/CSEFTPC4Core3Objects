@@ -6,6 +6,6 @@ namespace CSEFTPC4Core3Objects.Ac4yObjects
 {
     public partial class Ac4yObject
     {
-        public Ac4yIdentification ac4yIdentification { get; set; }
+
     }
 }
