@@ -10,7 +10,7 @@ namespace CSEFTPC4Core3Objects.Ac4yObjects
         public string GUID { get; set; }
         public string humanId { get; set; }
         public string publicHumanId { get; set; }
-        public string createdAt { get; set; }
-        public string updatedAt { get; set; }
+        public DateTime createdAt { get; set; }
+        public DateTime updatedAt { get; set; }
     }
 }

@@ -13,7 +13,7 @@ namespace CSEFTPC4Core3Objects.Ac4yObjects
         public int Id { get; set; }
         public string GUID { get; set; }
         public string owner { get; set; }
-        public string createdAt { get; set; }
-        public string updatedAt { get; set; }
+        public DateTime createdAt { get; set; }
+        public DateTime updatedAt { get; set; }
     }
 }
